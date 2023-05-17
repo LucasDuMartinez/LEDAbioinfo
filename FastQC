@@ -1,0 +1,13 @@
+# Baixar o FastQC:
+
+wget http://www.bioinformatics.babraham.ac.uk/proects/fastqc/fastqc_v0.112.1.zip 
+
+# Descompactação do arquivo FastQC(zip):
+
+unzip fastqc_v0.12.1.zip
+
+# Rodar FastQC:
+
+/home/nome_do_usuáio/FastQC/fastqc SRR000000_1.fastq.gz
+
+# Para rodar tem que instalar o Java!!
