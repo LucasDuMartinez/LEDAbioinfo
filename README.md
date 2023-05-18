@@ -6,12 +6,12 @@ Lugar para guardar informações referente a Bioinfo dos membros do LEDAlab.
 
 # Utilizar Ubuntu (Linux) no Windows:
 
-> Painel de conrole;
-> Proramas;
-> Ativar ou desativar recursos do Windows;
-> Subsitema do Windows para Linux;
-> Reiniciar PC;
-> Baixar na Microsoft Store o Ubuntu.
+Painel de conrole;
+Proramas;
+Ativar ou desativar recursos do Windows;
+Subsitema do Windows para Linux;
+Reiniciar PC;
+Baixar na Microsoft Store o Ubuntu.
 
 --------------------------------------------------------------------------
 
