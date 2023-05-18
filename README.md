@@ -6,6 +6,8 @@ Lugar para guardar informações referente a Bioinfo dos membros do LEDAlab.
 
 # Utilizar Ubuntu (Linux) no Windows:
 
+Siga os passos abixo para poder utilizar o cmd do Ubuntu pelo Windows.
+
 Painel de conrole;
 Proramas;
 Ativar ou desativar recursos do Windows;
