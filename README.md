@@ -9,10 +9,15 @@ Lugar para guardar informações referente a Bioinfo dos membros do LEDAlab.
 Siga os passos abixo para poder utilizar o cmd do Ubuntu pelo Windows.
 
 Painel de conrole;
+
 Proramas;
+
 Ativar ou desativar recursos do Windows;
-Subsitema do Windows para Linux;
+
+Ativar subsitema do Windows para Linux;
+
 Reiniciar PC;
+
 Baixar na Microsoft Store o Ubuntu.
 
 --------------------------------------------------------------------------
