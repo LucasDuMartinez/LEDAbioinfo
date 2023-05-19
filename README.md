@@ -38,7 +38,7 @@ tar -xvzf sratoolkit.3.0.2-ubuntu64.tar.gz
 
 # Baixar o FastQC:
 
-wget http://www.bioinformatics.babraham.ac.uk/proects/fastqc/fastqc_v0.112.1.zip 
+wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.12.1.zipwget
 
 # Descompactação do arquivo FastQC(zip):
 
