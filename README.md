@@ -24,7 +24,7 @@ Baixar na Microsoft Store o Ubuntu.
 
 # Baixar SRA Toolkit:
 
-wget http://ftp-trace.ncbi.nlm.nih.gov/sra/sdkk/3.0.2-ubuntu64.tar.gz
+wget http://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/3.0.2/sratoolkit.3.0.2-ubuntu64.tar.gz
 
 # Descompatar o SRA Toolkit: 
 
