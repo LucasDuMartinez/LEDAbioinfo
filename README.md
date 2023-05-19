@@ -49,4 +49,9 @@ unzip fastqc_v0.12.1.zip
 /home/nome_do_usuáio/FastQC/fastqc SRR000000_1.fastq.gz
 
 # Para rodar tem que instalar o Java!!
+
+sudo add-apt-repository ppa:linuxuprising/java
+
+sudo apt install oracle-java17-installer
+
 --------------------------------------------------------------------------
