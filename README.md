@@ -32,7 +32,7 @@ tar -xvzf sratoolkit.3.0.2-ubuntu64.tar.gz
 
 # Baixndo uma sequencia do NCBI com SRA:
 
-/home/nome_do_usuário/sratoolkit.3.0.1-ubuntu64/bin/fastq-dump --split-files --gzip SRR000000(codigo no NCBI)
+/home/nome_do_usuário/sratoolkit.3.0.2-ubuntu64/bin/fastq-dump --split-files --gzip SRR000000(codigo no NCBI)
 
 --------------------------------------------------------------------------
 
